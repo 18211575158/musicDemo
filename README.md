@@ -17,3 +17,13 @@ vue2 + vuex + vue-router + vue-cli + vue-lazyload + vue-axios + awesome-swiper<b
     * 歌词页面、歌词随播放滚动、当前播放歌词高亮显示
 * 发现页面
     * 暂时留白，想做类似MV的展示
+# 部分截图
+![](https://github.com/18211575158/musicDemo/blob/master/1.png)
+![](https://github.com/18211575158/musicDemo/blob/master/2.png)
+![](https://github.com/18211575158/musicDemo/blob/master/3.png)
+# 本地运行
+git clone https://github.com/18211575158/musicDemo.git<br>
+cd musicDemo<br>
+npm install<br>
+npm run dev<br>
+浏览器访问：127.0.0.1:8080
