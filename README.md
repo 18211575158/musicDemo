@@ -21,6 +21,7 @@ vue2 + vuex + vue-router + vue-cli + vue-lazyload + vue-axios + awesome-swiper<b
 ![](https://github.com/18211575158/musicDemo/blob/master/1.png)
 ![](https://github.com/18211575158/musicDemo/blob/master/2.png)
 ![](https://github.com/18211575158/musicDemo/blob/master/3.png)
+![](https://github.com/18211575158/musicDemo/blob/master/4.png)
 # 本地运行
 git clone https://github.com/18211575158/musicDemo.git<br>
 cd musicDemo<br>
